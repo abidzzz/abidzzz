@@ -14,8 +14,7 @@
 </p>
 <br>
 <h3 align="center">Currently working<br></h3>
-<p align="center">Basically nothing but </p>
+<p align="center">Basically nothing but i am learning new languages to improve my skills </p>
 <br>
-<h3 align="center"Future Goals<br></h3>
-<p align="center">Learn multiple languages and improve my skills </p>
+
 
