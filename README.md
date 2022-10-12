@@ -1,6 +1,6 @@
 # Hello world
 
-##_I am Abid_
+#### _I am Abid_
 
 
 #### I am a student and Devoloper 
@@ -12,10 +12,10 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
 </p>
-
+<br>
 <h3 align="center">Currently working<br></h3>
 <p align="center">Basically nothing but </p>
-
+<br>
 <h3 align="center"Future Goals<br></h3>
 <p align="center">Learn multiple languages and improve my skills </p>
 
