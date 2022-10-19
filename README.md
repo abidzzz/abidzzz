@@ -1,17 +1,26 @@
-<h1 align="center">Hello world , I am Abid <br></h1> 
+<h1 align="center">Hello world , I am <span class="auto"></span> <br></h1> 
 
-<h3 align="center">A student and Devoloper<br><br><br></h3>
+<br><br><br>
 
-<h3 align="center">Languages i know<br></h3>
+<h3 align="center">Languages i worked with<br></h3>
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
+  <ol>
+<li>Python</li>
+<li>Html</li>
+<li>Css</li>
+<li>Javascript</li>
+  </ol>
 </p>
 <br>
 <h3 align="center">Currently working<br></h3>
 <p align="center">Basically nothing but i am learning new languages to improve my skills </p>
 <br>
-
-
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+var typed2 = new Typed('.auto', {
+    strings: ["Abid","a Student","and a Programmer"],
+    typeSpeed: 300,
+    backSpeed: 300,
+    loop: true
+  });
+</script>
