@@ -1,6 +1,6 @@
 <h1 align="center">Hello world , I am Abid <br></h1> 
 
-<h3 align="center"> I am a student and Devoloper<br><br><br></h3>
+<h3 align="center">A student and Devoloper<br><br><br></h3>
 
 <h3 align="center">Languages i know<br></h3>
 <p align="center">
