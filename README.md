@@ -1,3 +1,4 @@
+<body>
 <h1 align="center">Hello world , I am <span class="auto"></span> <br></h1> 
 
 <br><br><br>
@@ -24,3 +25,4 @@ var typed2 = new Typed('.auto', {
     loop: true
   });
 </script>
+</body>
